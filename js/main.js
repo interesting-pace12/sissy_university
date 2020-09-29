@@ -2057,12 +2057,27 @@ function initializeMajorsData() {
         pass2: 'Give yourself a 2000ml enema and plug it with a buttplug of your choice. Hold for 30 minutes. 20minutes if "dressed like a girl". Lick and deephroat a dildo (size L) in the meantime until you are covered with saliva',
         pass3: 'Give yourself a 3000ml enema and plug with with a buttplug of your choice. Hold for 20 minutes. 10 if you are "dressed like a girl".'
     };
+    
+    let major6 = {
+        id: '6',
+        name: 'Bisexual Training',
+        prerequisites: '205 206 301',
+        days: '1 2 3 4 5 6 7',
+        description: 'Learn to love girls.',
+        tier: 'major',
+        opt1: 'none',
+        opt2: 'none',
+        pass1: 'Fuck your ass and mouth with a dildo (size L) until you collect 10ml of precum and 50ml of saliva. Mix them with 500ml of your own piss and 1000ml water. Give yourself an enema with the resulting mix for 20 minutes. 10 if you do the whole procees while "dressed like a girl". You can use a plug of any size to hold the enema',
+        pass2: 'Give yourself a 2000ml enema and plug it with a buttplug of your choice. Hold for 30 minutes. 20minutes if "dressed like a girl". Lick and deephroat a dildo (size L) in the meantime until you are covered with saliva',
+        pass3: 'Give yourself a 3000ml enema and plug with with a buttplug of your choice. Hold for 20 minutes. 10 if you are "dressed like a girl".'
+    };
 
     majorsData.push(major1);
     majorsData.push(major2);
     majorsData.push(major3);
     majorsData.push(major4);
     majorsData.push(major5);
+    majorsData.push(major6);
 
     console.log("Majors data loaded");
     localStorage.setItem('majorsData', JSON.stringify(majorsData));
