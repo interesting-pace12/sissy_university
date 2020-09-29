@@ -1990,10 +1990,10 @@ function initializeMajorsData() {
     let majorsData = [];
     let major1 = {
         id: '1',
-        name: 'Anal Engineering',
+        name: 'Exhibitionism',
         prerequisites: '206 302',
         days: '1 2 3 4 5 6 7',
-        description: 'You will devote your life to an anal only lifestyle.',
+        description: 'Learn to love the risk & reward of playing in public.',
         tier: 'major',
         opt1: 'none',
         opt2: 'none',
@@ -2004,10 +2004,10 @@ function initializeMajorsData() {
 
     let major2 = {
         id: '2',
-        name: 'Gender Studies',
+        name: 'BDSM',
         prerequisites: '303 304',
         days: '1 2 3 4 5 6 7',
-        description: 'You will take control of your gender and become a female in all ways except one.',
+        description: 'Exploring sex with a dominant/submissive attitude',
         tier: 'major',
         opt1: 'none',
         opt2: 'none',
@@ -2018,10 +2018,10 @@ function initializeMajorsData() {
 
     let major3 = {
         id: '3',
-        name: 'Kink Psychology',
+        name: 'Porn',
         prerequisites: '108 203 210 309',
         days: '1 2 3 4 5 6 7',
-        description: 'You will study the effects of sexual frustration and pain on the human psyche.',
+        description: 'You want to explore the best of what porn can be',
         tier: 'major',
         opt1: 'none',
         opt2: 'none',
@@ -2032,10 +2032,10 @@ function initializeMajorsData() {
 
     let major4 = {
         id: '4',
-        name: 'Stuffing Science',
+        name: 'Fucking',
         prerequisites: '305 308',
         days: '1 2 3 4 5 6 7',
-        description: 'You will take your ass and mouth to the limits of human understanding.',
+        description: 'Learn all the skills to be the best at fucking.',
         tier: 'major',
         opt1: 'none',
         opt2: 'none',
@@ -2046,10 +2046,10 @@ function initializeMajorsData() {
 
     let major5 = {
         id: '5',
-        name: 'Fluid Dynamics',
+        name: 'Oral Queen',
         prerequisites: '205 206 301',
         days: '1 2 3 4 5 6 7',
-        description: 'You will master all your sexual liquids.',
+        description: 'Take your mouth skills to the next level',
         tier: 'major',
         opt1: 'none',
         opt2: 'none',
