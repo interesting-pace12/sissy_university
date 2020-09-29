@@ -136,7 +136,7 @@ function viewMajorsPage() {
         let col = $('<div class="col-auto">');
         let card = $('<div class="card" style="width:18rem; height: 400px">');
 
-        let imgUrl = "img/noPic.svg";
+        let imgUrl = "img/789_1000.jpg";
         card
             .append($('<img class="card-img-top">').attr('src', imgUrl)).click(function () {
             window.location.href = "major.html?majorId=" + thisMajor.id;
